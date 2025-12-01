@@ -105,13 +105,6 @@
 
 ---
 
-<!-- Centered Most Used Languages card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=05shubhjain&show_icons=true&locale=en&layout=compact" alt="05shubhjain" />
-</p>
-
----
-
 <!-- GitHub Snake -->
 <p align="center">
   <picture>
